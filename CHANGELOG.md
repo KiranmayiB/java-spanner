@@ -1,5 +1,12 @@
 # Changelog
 
+### [6.12.4](https://www.github.com/googleapis/java-spanner/compare/v6.12.3...v6.12.4) (2021-09-15)
+
+
+### Bug Fixes
+
+* do not serialize unnecessary fields ([#1426](https://www.github.com/googleapis/java-spanner/issues/1426)) ([29209f8](https://www.github.com/googleapis/java-spanner/commit/29209f83d10fa01b5566da66259da95dd60abca0))
+
 ### [6.12.3](https://www.github.com/googleapis/java-spanner/compare/v6.12.2...v6.12.3) (2021-09-15)
 
 
